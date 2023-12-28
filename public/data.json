@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "title": "El viejo y el mar",
+        "auhor": "Ernest Hemingway",
+        "genre": "Segui.",
+        "year": 1999,
+        "price": 10,
+        "img": "https://www.crisol.com.pe/media/catalog/product/cache/cf84e6047db2ba7f2d5c381080c69ffe/d/9/d9788490748268_rjmthmhqwynyvmqc.jpg",
+        "quanty": 1
+    },
+    {
+        "id": 2,
+        "title": "El Alquimista",
+        "author": "Paulo Coelho",
+        "genre": "Ficción",
+        "year": 1988,
+        "price": 35.6,
+        "img": "https://images.cdn3.buscalibre.com/fit-in/360x360/04/1f/041faab83743751d96b0b362733f33f4.jpg",
+        "quanty": 1
+    },
+    {
+        "id": 3,
+        "title": "Hippie",
+        "auhor": "Paulo Coelho",
+        "genre": "Novela Autobiografía",
+        "year": 2018,
+        "price": 47.5,
+        "img": "https://images.cdn3.buscalibre.com/fit-in/360x360/92/44/92445aed097aadf68f373841b7547891.jpg",
+        "quanty":1
+    },
+    {
+        "id": 4,
+        "title": "Los Detectives Salvajes",
+        "author": "Roberto Bolaño",
+        "genre": "Novela",
+        "year": 2001,
+        "price": 15.9,
+        "img": "https://images.cdn3.buscalibre.com/fit-in/360x360/11/6f/116f354b81f215888ba7ce01c46b5bb4.jpg",
+        "quanty": 1
+    },
+    {
+        "id": 5,
+        "title": "Libro de sueños",
+        "author": "Jorge Luis Borges",
+        "genre": "Novela",
+        "year": 2022,
+        "price": 23.5,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_631950-MLA52751352533_122022-O.webp",
+        "quanty":1
+    },
+    {
+        "id": 6,
+        "title": "La casa de los espíritus",
+        "author": "Isabel Allende",
+        "genre": "Romance",
+        "year": 1947,
+        "price": 25.5,
+        "img": "https://images.cdn1.buscalibre.com/fit-in/360x360/02/27/0227bc5fec74459c38f5d8b1cb0fd533.jpg",
+        "quanty": 1
+    }
+]
